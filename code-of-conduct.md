@@ -2,7 +2,7 @@
 
 All **community participants**--including members and guests of members, event hosts, sponsors, presenters, exhibitors and attendees--are expected to abide by this code of conduct.
 
-By becoming a member of GameDevLou, or attending or hosting any event at GameDevLou in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
+By participating in the Louisville Makes Games online community (warpzone.slack.com), becoming a member of Warp Zone Louisville, or attending or hosting any event at Warp Zone Louisville in any capacity, you agree to abide by this code of conduct, and cooperate with organizers who enforce it.
 
 ## Expected Behavior
 
@@ -19,7 +19,7 @@ We insist that everyone who uses the space remains mindful of, and takes respons
 
 We believe that failing to address dynamics of hierarchy, power and privilege alienates and further victimizes our members and prevents us from creating the safe equitable space we want.
 
-**We do not tolerate oppressive behavior, harassment, destructive behavior, or exclusionary actions.**
+**We do not tolerate oppressive behavior, harassment, destructive behavior, exclusionary actions, or violating our space-specific rules**
 
 **Oppressive behavior**: any conduct that demeans, marginalizes, rejects, threatens or harms anyone on the basis of identity, background, or ability.
 
@@ -29,6 +29,11 @@ We believe that failing to address dynamics of hierarchy, power and privilege al
 
 **Exclusionary actions**: denying certain participants opportunities to share views, skills and other contributions; engaging in favoritism; and creating or reinforcing an inequitable learning environment.
 
+**Space-specific rules**: 
+- Please remain in our space other than to use the hall restrooms, check mail, enter, or exit the building.
+- Do not disrupt other occupants of our building. 
+- Overnight sleeping is not permitted by our lease.
+
 ## Enforcement
 
 Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬is‭ ‬expected‭ ‬to‭ ‬comply‭ ‬immediately.
@@ -37,17 +42,17 @@ Anyone who engages in sustained ‬unacceptable behavior may be sanctioned ‬or
 
 ### What to do if you need help
 
-If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any GameDevLou event, please talk to any of the following people:
+If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any Louisville Makes Games event, please talk to any of the following people:
 
 
 *   The host of the event you are attending (listed on the event page)
 *   Alex Bezuska  *He/Him*  <abezuska@louisvillemakesgames.org>
 *   Allen-Michael Brower  *He/Him*  <abrower@louisvillemakesgames.org>
-*   Eric Lathrop  *He/Him*  <elathrop@louisvillemakesgames.org>
-*   Chip Lynch  *He/Him*  <chip@chiplynch.com>
-*   Mattie “Mint” Richards  *She/Her*  <mrichards@louisvillemakesgames.org>
 *   Barry Rowe  *He/Him*  <browe@louisvillemakesgames.org>
-*   Cara Smith  *She/Her*  <csmith@louisvillemakesgames.org>
+*   Cara Smith Bezuska  *She/Her*  <csmith@louisvillemakesgames.org>
+*   Chip Lynch  *He/Him*  <chip@chiplynch.com>
+*   Eric Lathrop  *He/Him*  <elathrop@louisvillemakesgames.org>
+*   Veronica Rivera  *She/Her*  <vrevera@louisvillemakesgames.org>
 
 Your conversation will be held in confidence.
 

@@ -50,7 +50,6 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 *   Allen-Michael Brower  *He/Him*  <abrower@louisvillemakesgames.org>
 *   Barry Rowe  *He/Him*  <browe@louisvillemakesgames.org>
 *   Cara Smith Bezuska  *She/Her*  <csmith@louisvillemakesgames.org>
-*   Chip Lynch  *He/Him*  <chip@chiplynch.com>
 *   Eric Lathrop  *He/Him*  <elathrop@louisvillemakesgames.org>
 *   Veronica Rivera  *She/Her*  <vrivera@louisvillemakesgames.org>
 

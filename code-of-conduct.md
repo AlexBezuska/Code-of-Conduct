@@ -52,7 +52,7 @@ If you witness or are subject to unacceptable behavior, or experience marginaliz
 *   Cara Smith Bezuska  *She/Her*  <csmith@louisvillemakesgames.org>
 *   Chip Lynch  *He/Him*  <chip@chiplynch.com>
 *   Eric Lathrop  *He/Him*  <elathrop@louisvillemakesgames.org>
-*   Veronica Rivera  *She/Her*  <vrevera@louisvillemakesgames.org>
+*   Veronica Rivera  *She/Her*  <vrivera@louisvillemakesgames.org>
 
 Your conversation will be held in confidence.
 
